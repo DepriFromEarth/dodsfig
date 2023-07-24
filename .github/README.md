@@ -36,6 +36,6 @@ This mod is designed for Day of Defeat: Source. Using this mod on other games us
 * ...and you!
 
 ## Legal
-Valve, the Valve logo, Steam, the Steam logo, Team Fortress, the Team Fortress logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.
+Valve, the Valve logo, Steam, the Steam logo, Day of Defeat: Source, the Day of Defeat: Source logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.
 
 the dodsfig project is not sponsored, endorsed, licensed by, or affiliated with Valve Corporation.
