@@ -3,6 +3,9 @@ As you may know, this is non-profit open source project.
 
 We appreciate any kind of contribution of any type or size, from anyone to improve the script!
 
+## Developer note
+Day of Defeat: Source doesn't get updates so I will add what I think will be needed. Information presented right now may not correlate with the changes I intend.
+
 ## Reporting issues
 We always welcome reporting issues, whether it be bug reports
 or feedback about improving the project. You can help guide the development of moonfig
@@ -159,9 +162,6 @@ local 32 player bot match on `pl_upward`. (use `+maxplayers 32` in launch option
 
 After the results are positive with the local bot match, measure your average
 FPS in a filled casual match.
-
-## Developer note
-Day of Defeat: Source doesn't get updates so I will add what I think will be needed.
 
 ## Code of Conduct
 
