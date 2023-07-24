@@ -18,6 +18,7 @@ This mod is designed for Day of Defeat: Source. Using this mod on other games us
 * **Out-of-the-box.** All overrides configurations are ready, now you don't need to create overrides folder for yourself. Every overrides are stored inside dodsfig-config folder.
 
 ## Special Thanks to
+* [RoonMoonlight](https://github.com/RoonMoonlight)
 * [mastercoms](https://github.com/mastercoms)
 * [Chris](https://chrisdown.name/tf2/)
 * [Comanglia](https://www.teamfortress.tv/25328/comanglias-config-fps-guide)
