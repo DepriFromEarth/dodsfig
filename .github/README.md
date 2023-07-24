@@ -9,7 +9,7 @@ You may find that dodsfig makes DOD:S a lot smoother, eliminates stuttering, red
 
 dodsfig is constantly updated following the new tweaks and features from upstream mastercomfig, while not adding many bloats into the scripts — ierated upon based on user feedback and benchmarks. If you think there's an unoptimal value, or if it's as simple as a comment being confusing to you, report the problem or make a pull request through `canary` branch and you'll most likely see a fix in a future update.
 
-This mod is designed for Day of Defeat Source. Using this mod on other games using Source Engine are possible, but might have issues and will be unsupported.
+This mod is designed for Day of Defeat: Source. Using this mod on other games using Source Engine are possible, but might have issues and will be unsupported.
 
 ## Features & Differences with mastercomfig
 * **Respecting your choice.** Unlike mastercomfig, dodsfig respects the choice of users settings and only focus on optimizing the game, rather than enforcing your gameplay settings. The only thing which is enforced is your graphic settings.
