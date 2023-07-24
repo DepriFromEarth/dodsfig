@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for this project
 title: '[Feature Request]'
 labels: 'enhancement'
-assignees: RoonMoonlight
+assignees: DepriFromEarth
 ---
 <!--
 NOTE: This project is forked from mastercomfig and considered unofficial.
