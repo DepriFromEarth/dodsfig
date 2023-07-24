@@ -166,4 +166,4 @@ Day of Defeat: Source doesn't get updates so I will add what I think will be nee
 ## Code of Conduct
 
 As a member of the the dodsfig project community, to foster a more welcoming environment,
-be sure to abide by the [Code of Conduct](https://github.com/moonfig/moonfig/blob/stable/.github/CODE_OF_CONDUCT.md).
+be sure to abide by the [Code of Conduct](https://github.com/dodsfig/dodsfig/blob/stable/.github/CODE_OF_CONDUCT.md).
