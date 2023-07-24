@@ -5,7 +5,7 @@ dodsfig is the non-profit project and fork of mastercomfig, a modern customizati
 
 dodsfig is a modern customization framework, and aims to disable heavily unoptimized features and adjust other settings where it does not affect behavior or visuals noticeably. It also has customization features so that you may adjust settings to your needs/preferences.
 
-You may find that dodsfig makes TF2 a lot smoother, eliminates stuttering, reduces load times and increases FPS while respecting the user's choice.
+You may find that dodsfig makes DOD:S a lot smoother, eliminates stuttering, reduces load times and increases FPS while respecting the user's choice.
 
 dodsfig is constantly updated following the new tweaks and features from upstream mastercomfig, while not adding many bloats into the scripts — ierated upon based on user feedback and benchmarks. If you think there's an unoptimal value, or if it's as simple as a comment being confusing to you, report the problem or make a pull request through `canary` branch and you'll most likely see a fix in a future update.
 
