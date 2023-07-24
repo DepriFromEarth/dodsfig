@@ -160,10 +160,10 @@ local 32 player bot match on `pl_upward`. (use `+maxplayers 32` in launch option
 After the results are positive with the local bot match, measure your average
 FPS in a filled casual match.
 
-#### Developer note
+## Developer note
 Day of Defeat: Source doesn't get updates so I will add what I think will be needed.
 
 ## Code of Conduct
 
-As a member of the the moonfig project community, to foster a more welcoming environment,
+As a member of the the dodsfig project community, to foster a more welcoming environment,
 be sure to abide by the [Code of Conduct](https://github.com/moonfig/moonfig/blob/stable/.github/CODE_OF_CONDUCT.md).
