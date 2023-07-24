@@ -26,7 +26,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
 
-* moonfig version<!-- don't write this as 'latest', describe the actual version number. You can find version number by typing `moonfig_version` in console -->:
+* dodsfig version<!-- don't write this as 'latest', describe the actual version number. You can find version number by typing `dodsfig_version` in console -->:
 * Presets:
 * Custom values on your config (if any):
 * DX level:
@@ -35,5 +35,5 @@ If applicable, add screenshots to help explain your problem.
 * Graphics card (GPU):
 * Graphics driver version:
 * Processor (CPU):
-* TF2 on HDD or SSD:
+* DOD:S on HDD or SSD:
 * Memory (RAM) size in MB or GB:
