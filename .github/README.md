@@ -1,4 +1,5 @@
-<img align="right" alt="moonfig logo" width="100" src="https://user-images.githubusercontent.com/25527589/185532914-b3f88743-8877-4f1b-85cc-c62b4396758e.png">
+<img align="right" alt="dods logo" width="100" src="![day_of_defeat_source_icon_by_benashvili-d5ug0l2-4041016756](https://github.com/DepriFromEarth/dodsfig/assets/107975725/3bccd215-0446-40fd-aa4c-13309832aea7)
+">
 
 # dodsfig
 dodsfig is the non-profit project and fork of mastercomfig, a modern customization framework without bloats, respecting the user's choice rather than being controlled by the script.
