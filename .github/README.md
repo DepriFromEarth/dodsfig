@@ -55,7 +55,7 @@ Some servers will kick/ban you for having customized command values because it i
 ### ARP
 | Default Value | Required Value |
 |-----:|-----------|
-|     cl_interp .01| Test|
+|     cl_interp .1| Test|
 |     cl_interp_ratio 2| Test    |
 |     Test| Test        |
 
