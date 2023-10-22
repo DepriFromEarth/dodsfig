@@ -17,6 +17,19 @@ This mod is designed for Day of Defeat: Source. Using this mod on other games us
 * **Modular.** Mods now consist of two mods: dodsfig-core and dodsfig-config. Instead of seperating the mod based on preset we now use dodsfig-config to configure the presets using `dodsfig-config/cfg/presets.cfg`.
 * **Out-of-the-box.** All overrides configurations are ready, now you don't need to create overrides folder for yourself. Every overrides are stored inside dodsfig-config folder.
 
+## Recommended Launch Options
+> Text that is a quote-novid -nojoy -nohltv -particles 1 -noquicktime
+
+## Commands to worry about
+
+Some servers will ban you for having customized command values because it is seen as cheating so here are the defaults for them. !!! SECTION NOT FINISHED !!!
+
+| Command | Default Value |
+|-----:|-----------|
+|     Test| Test|
+|     Test| Test    |
+|     Test| Test        |
+
 ## Special Thanks to
 * [RoonMoonlight](https://github.com/RoonMoonlight)
 * [mastercoms](https://github.com/mastercoms)
