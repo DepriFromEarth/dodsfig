@@ -24,7 +24,7 @@ This mod is designed for Day of Defeat: Source. Using this mod on other games us
 
 ## Commands to Worry About
 
-Some servers will ban you for having customized command values because it is seen as cheating so here are the defaults for them.
+Some servers will kick/ban you for having customized command values because it is seen as cheating so here are the defaults for them.
 
 !!! SECTION NOT FINISHED !!!
 
@@ -35,12 +35,35 @@ Some servers will ban you for having customized command values because it is see
 |     Test| Test    |
 |     Test| Test        |
 
-### Competitive
+### German Servers
 | Command | Default Value |
 |-----:|-----------|
 |     Test| Test|
 |     Test| Test    |
 |     Test| Test        |
+
+### Russian Servers
+| Command | Default Value |
+|-----:|-----------|
+|     Test| Test|
+|     Test| Test    |
+|     Test| Test        |
+
+### Place Holder
+| Command | Default Value |
+|-----:|-----------|
+|     Test| Test|
+|     Test| Test    |
+|     Test| Test        |
+
+### Competitive
+| Default Value | Required Value |
+|-----:|-----------|
+|     r_shadows 1| r_shadows 0|
+|     r_shadowrendertotexture 1| r_shadowrendertotexture 0    |
+|     r_shadowmaxrendered 32| r_shadowmaxrendered 0        |
+|     r_drawdetailsprops 1 | r_drawdetailsprops 1        |
+
 
 ## Special Thanks to
 * [RoonMoonlight](https://github.com/RoonMoonlight)
