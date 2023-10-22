@@ -22,10 +22,20 @@ This mod is designed for Day of Defeat: Source. Using this mod on other games us
 -novid -nojoy -nohltv -particles 1 -noquicktime
 ```
 
-## Commands to worry about
+## Commands to Worry About
 
-Some servers will ban you for having customized command values because it is seen as cheating so here are the defaults for them. !!! SECTION NOT FINISHED !!!
+Some servers will ban you for having customized command values because it is seen as cheating so here are the defaults for them.
 
+!!! SECTION NOT FINISHED !!!
+
+### Public
+| Command | Default Value |
+|-----:|-----------|
+|     Test| Test|
+|     Test| Test    |
+|     Test| Test        |
+
+### Competitive
 | Command | Default Value |
 |-----:|-----------|
 |     Test| Test|
