@@ -31,15 +31,15 @@ Some servers will kick/ban you for having customized command values because it i
 ### Public
 | Default Value | Required Value |
 |-----:|-----------|
-|     Test| Test|
-|     Test| Test    |
-|     Test| Test        |
+|     Place Holder| Place Holder|
+|     Place Holder| Place Holder    |
+|     Place Holder| Place Holder        |
 
 ### German Servers
 | Default Value | Required Value |
 |-----:|-----------|
 |     r_drawdetailprops 1| r_drawdetailprops 1|
-|     Test| Test    |
+|     cl_detaildist 1200| cl_detaildist 1200    |
 
 ### Russian Servers
 | Default Value | Required Value |
@@ -50,9 +50,9 @@ Some servers will kick/ban you for having customized command values because it i
 |     Rate 80000| Rate 20000 or 100000        |
 |     cl_interp .1| cl_interp .1        |
 |     cl_interp_ratio 2| cl_interp_ratio 1 or 2        |
-|     Depends on GPU | mat_dxlevel 90 or above        |
 |     cl_cmdrate 30 | cl_cmdrate 66        |
 |     cl_updaterate 20 | cl_updaterate 66        |
+|     Depends on GPU | mat_dxlevel 90 or above        |
 
 
 ### ARP
@@ -60,7 +60,6 @@ Some servers will kick/ban you for having customized command values because it i
 |-----:|-----------|
 |     cl_interp .1| cl_interp .1|
 |     cl_interp_ratio 2| cl_interp_ratio 1 or 2    |
-|     Test| Test        |
 
 ### Competitive
 | Default Value | Required Value |
