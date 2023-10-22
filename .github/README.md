@@ -44,10 +44,10 @@ Some servers will kick/ban you for having customized command values because it i
 ### Russian Servers
 | Default Value | Required Value |
 |-----:|-----------|
-|     Test| Test|
-|     Test| Test    |
-|     Test| Test        |
-|     Test| Test        |
+|     cl_allowdownload 1| cl_allowdownload 1|
+|     cl_allowupload 1| cl_allowupload 1    |
+|     cl_downloadfilter all| cl_downloadfilter all or nosounds        |
+|     Rate 80000| Rate 20000 or 100000        |
 |     Test| Test        |
 |     Test| Test        |
 |     Depends on GPU | mat_dxlevel 90        |
