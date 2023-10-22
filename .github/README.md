@@ -21,6 +21,7 @@ This mod is designed for Day of Defeat: Source. Using this mod on other games us
 ```
 -novid -nojoy -nohltv -particles 1 -noquicktime
 ```
+-precachefontchars and -nosteamcontroller does not exist in Day of Defeat: Source.
 
 ## Commands to Worry About
 
