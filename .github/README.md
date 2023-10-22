@@ -38,7 +38,7 @@ Some servers will kick/ban you for having customized command values because it i
 ### German Servers
 | Default Value | Required Value |
 |-----:|-----------|
-|     Test| Test|
+|     r_drawdetailprops 1| r_drawdetailprops 1|
 |     Test| Test    |
 
 ### Russian Servers
@@ -52,11 +52,11 @@ Some servers will kick/ban you for having customized command values because it i
 |     Test| Test        |
 |     Depends on GPU | mat_dxlevel 90        |
 
-### Place Holder
+### ARP
 | Default Value | Required Value |
 |-----:|-----------|
-|     Test| Test|
-|     Test| Test    |
+|     cl_interp .01| Test|
+|     cl_interp_ratio 2| Test    |
 |     Test| Test        |
 
 ### Competitive
