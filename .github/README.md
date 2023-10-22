@@ -24,7 +24,7 @@ This mod is designed for Day of Defeat: Source. Using this mod on other games us
 
 ## Commands to Worry About
 
-Some servers will kick/ban you for having customized command values because it is seen as cheating so here are the defaults for them.
+Some servers will kick/ban you for having customized command values because it is seen as cheating so here are the default and required values for them.
 
 !!! SECTION NOT FINISHED !!!
 
