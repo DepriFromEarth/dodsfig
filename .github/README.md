@@ -29,28 +29,31 @@ Some servers will kick/ban you for having customized command values because it i
 !!! SECTION NOT FINISHED !!!
 
 ### Public
-| Command | Default Value |
+| Default Value | Required Value |
 |-----:|-----------|
 |     Test| Test|
 |     Test| Test    |
 |     Test| Test        |
 
 ### German Servers
-| Command | Default Value |
+| Default Value | Required Value |
 |-----:|-----------|
 |     Test| Test|
 |     Test| Test    |
-|     Test| Test        |
 
 ### Russian Servers
-| Command | Default Value |
+| Default Value | Required Value |
 |-----:|-----------|
 |     Test| Test|
 |     Test| Test    |
 |     Test| Test        |
+|     Test| Test        |
+|     Test| Test        |
+|     Test| Test        |
+|     mat_dxlevel 90| Test        |
 
 ### Place Holder
-| Command | Default Value |
+| Default Value | Required Value |
 |-----:|-----------|
 |     Test| Test|
 |     Test| Test    |
