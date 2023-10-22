@@ -18,7 +18,7 @@ This mod is designed for Day of Defeat: Source. Using this mod on other games us
 * **Out-of-the-box.** All overrides configurations are ready, now you don't need to create overrides folder for yourself. Every overrides are stored inside dodsfig-config folder.
 
 ## Recommended Launch Options
-> Text that is a quote-novid -nojoy -nohltv -particles 1 -noquicktime
+> -novid -nojoy -nohltv -particles 1 -noquicktime
 
 ## Commands to worry about
 
