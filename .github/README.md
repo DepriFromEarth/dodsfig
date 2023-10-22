@@ -51,6 +51,9 @@ Some servers will kick/ban you for having customized command values because it i
 |     cl_interp .1| cl_interp .1        |
 |     cl_interp_ratio 2| cl_interp_ratio 1 or 2        |
 |     Depends on GPU | mat_dxlevel 90 or above        |
+|     cl_cmdrate 30 | cl_cmdrate 66        |
+|     cl_updaterate 20 | cl_updaterate 66        |
+
 
 ### ARP
 | Default Value | Required Value |
