@@ -50,7 +50,7 @@ Some servers will kick/ban you for having customized command values because it i
 |     Rate 80000| Rate 20000 or 100000        |
 |     cl_interp .1| cl_interp .1        |
 |     cl_interp_ratio 2| cl_interp_ratio 1 or 2        |
-|     Depends on GPU | mat_dxlevel 90 or 95        |
+|     Depends on GPU | mat_dxlevel 90 or above        |
 
 ### ARP
 | Default Value | Required Value |
