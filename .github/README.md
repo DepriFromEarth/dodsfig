@@ -50,7 +50,7 @@ Some servers will kick/ban you for having customized command values because it i
 |     Test| Test        |
 |     Test| Test        |
 |     Test| Test        |
-|     mat_dxlevel 90| Test        |
+|     Depends on GPU | mat_dxlevel 90        |
 
 ### Place Holder
 | Default Value | Required Value |
