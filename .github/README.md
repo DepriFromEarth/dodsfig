@@ -26,14 +26,13 @@ This mod is designed for Day of Defeat: Source. Using this mod on other games us
 
 Some servers will kick/ban you for having customized command values because it is seen as cheating so here are the default and required values for them.
 
-!!! SECTION NOT FINISHED !!!
-
 ### Public
 | Default Value | Required Value |
 |-----:|-----------|
-|     Place Holder| Place Holder|
-|     Place Holder| Place Holder    |
-|     Place Holder| Place Holder        |
+|     cl_interp .1| cl_interp .1|
+|     cl_interp_ratio 2| cl_interp_ratio 1 or 2    |
+|     cl_cmdrate 30 | cl_cmdrate 66        |
+|     cl_updaterate 20 | cl_updaterate 66        |
 
 ### German Servers
 | Default Value | Required Value |
@@ -54,13 +53,6 @@ Some servers will kick/ban you for having customized command values because it i
 |     cl_updaterate 20 | cl_updaterate 66        |
 |     Depends on GPU | mat_dxlevel 90 or above        |
 
-
-### ARP
-| Default Value | Required Value |
-|-----:|-----------|
-|     cl_interp .1| cl_interp .1|
-|     cl_interp_ratio 2| cl_interp_ratio 1 or 2    |
-
 ### Competitive
 | Default Value | Required Value |
 |-----:|-----------|
@@ -68,6 +60,10 @@ Some servers will kick/ban you for having customized command values because it i
 |     r_shadowrendertotexture 1| r_shadowrendertotexture 0    |
 |     r_shadowmaxrendered 32| r_shadowmaxrendered 0        |
 |     r_drawdetailsprops 1 | r_drawdetailsprops 1        |
+|     cl_interp .1| cl_interp .03 or below|
+|     cl_interp_ratio 2| cl_interp_ratio 1 or 2    |
+|     cl_cmdrate 30 | cl_cmdrate 66        |
+|     cl_updaterate 20 | cl_updaterate 66        |
 
 
 ## Special Thanks to
