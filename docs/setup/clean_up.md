@@ -21,6 +21,6 @@ Next, if you have Steam Cloud Synchronization enabled, make all the files in
 else Steam Cloud will redownload them. Alternatively, you can
 [disable Steam Cloud](https://help.steampowered.com/en/faqs/view/68D2-35AB-09A9-7678#enabling).
 
-Finally, launch TF2 with only the
+Finally, launch DOD:S with only the
 `-novid -autoconfig -default +host_writeconfig config.cfg full +mat_savechanges +quit` launch
 options. The game will launch and exit. Afterward, remove these launch options.
