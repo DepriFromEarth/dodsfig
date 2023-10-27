@@ -17,6 +17,8 @@ This mod is designed for Day of Defeat: Source. Using this mod on other games us
 * **Modular.** Mods now consist of two mods: dodsfig-core and dodsfig-config. Instead of seperating the mod based on preset we now use dodsfig-config to configure the presets using `dodsfig-config/cfg/presets.cfg`.
 * **Out-of-the-box.** All overrides configurations are ready, now you don't need to create overrides folder for yourself. Every overrides are stored inside dodsfig-config folder.
 
+## Docs
+For more information, including installation steps, check out [the docs.](https://github.com/DepriFromEarth/dodsfig/tree/main/docs)
 ## Special Thanks to
 * [RoonMoonlight](https://github.com/RoonMoonlight)
 * [mastercoms](https://github.com/mastercoms)
