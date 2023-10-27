@@ -1,5 +1,5 @@
 ---
-description: How to completely reset DOD:S, including uninstalling mastercomfig or other configs.
+description: How to completely reset DOD:S, including uninstalling dodsfig or other configs.
 ...
 # Clean Up
 
