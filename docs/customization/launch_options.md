@@ -2,17 +2,17 @@
 > This section is not finished!!!
 
 ---
-description: Tune Team Fortress 2 and mastercomfig further with launch options.
+description: Tune Day of Defeat: Source and dodsfig further with launch options.
 ...
 
 # Launch Options
 
-Right-click Team Fortress 2 in your Steam library and click **Properties...**. 
+Right-click Day of Defeat: Source in your Steam library and click **Properties...**. 
 In the window that appears, under **Launch Options**, remove anything that's in
 there and paste
 
 ```c
--novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
+-novid -nojoy -nohltv -particles 1 -noquicktime
 ```
 
 into the box and click ok.
@@ -43,10 +43,10 @@ Read below about optional launch options and choosing your own DXLevel.
 
 * **-novid** : disables Valve startup logo, saves time
 * **-nojoy** : stops Joystick system from starting up, faster startup and less memory usage
-* **-nosteamcontroller** : disables Steam controller system, faster startup, less memory usage and less input conflicts
+* **-nosteamcontroller** : disables Steam controller system, faster startup, less memory usage and less input conflicts **(Does not exist in DOD:S)**
 * **-nohltv** : disables SourceTV hosting, less resource usage
 * **-particles 1** : limits beam count to the minimum of 512
-* **-precachefontchars** : precaches font rendering for common characters
+* **-precachefontchars** : precaches font rendering for common characters **(Does not exist in DOD:S)**
 * **-noquicktime** : disables initializing Quicktime. If you use the replay rendering feature, do not use this. Does not do anything on Linux
 
 ## Extra Launch Options
