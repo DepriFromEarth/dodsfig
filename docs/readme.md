@@ -1,9 +1,3 @@
-## Recommended Launch Options
-```
--novid -nojoy -nohltv -particles 1 -noquicktime
-```
-- -precachefontchars and -nosteamcontroller does not exist in Day of Defeat: Source.
-
 ## Commands to Worry About
 
 Some servers will kick/ban you for having customized command values because it is seen as cheating so here are the default and required values for them.
