@@ -66,6 +66,17 @@ Some servers will kick/ban you for having customized command values because it i
 |     cl_cmdrate 30 | cl_cmdrate 66        |
 |     cl_updaterate 20 | cl_updaterate 66        |
 
+## Reset Day of Defeat: Source to Default
+
+* 1. Delete any configs you may have in dod/custom and delete the dod\cfg folder. 
+* 2. Then verify your game files using Steam.
+* 3. If you have Steam Cloud Synchronization enabled, make all the files in ``STEAM_FOLDER\userdata\USER_ID\300\remote\cfg`` blank. Do not delete them, or else Steam Cloud will redownload them. Alternatively, you can disable Steam Cloud.
+* 4. Finally, launch DOD:S with only these launch options. The game will launch and exit. Afterward, remove these launch options. 
+```
+-novid -autoconfig -default +host_writeconfig config.cfg full +mat_savechanges +quit
+```
+This will give DOD:S a clean slate just as you installed it the first time.
+
 
 ## Special Thanks to
 * [RoonMoonlight](https://github.com/RoonMoonlight)
