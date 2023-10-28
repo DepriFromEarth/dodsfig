@@ -27,7 +27,7 @@ Some servers will kick/ban you for having customized command values because it i
 |     cl_interp_ratio 2| cl_interp_ratio 1 or 2        |
 |     cl_cmdrate 30 | cl_cmdrate 66        |
 |     cl_updaterate 20 | cl_updaterate 66        |
-|     Depends on GPU | mat_dxlevel 90 or above        |
+|     Depends on GPU | mat_dxlevel 90 or 95        |
 
 ### Competitive
 | Default Value | Required Value |
