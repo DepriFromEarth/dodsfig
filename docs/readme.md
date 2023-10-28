@@ -2,7 +2,7 @@
 
 Some servers will kick/ban you for having customized command values because it is seen as cheating so here are the default and required values for them.
 
-### Public
+### Public (ARP, etc)
 | Default Value | Required Value |
 |-----:|-----------|
 |     cl_interp .1| cl_interp .1|
