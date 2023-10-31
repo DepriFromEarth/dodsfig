@@ -1,7 +1,0 @@
-models/ammo
-models/effects
-models/helmets
-models/mapmodels
-models/player
-models/shells
-models/weapons
