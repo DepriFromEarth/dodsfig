@@ -6,10 +6,6 @@ This is where main core files are stored, which gets executed and read by the en
 
 This is where the config files which can be configured for main dodsfig file.
 
-# config folder
-
-This folder contains the original files for the config, used for creating the `.vpk` files. You can read the files in these folders for reference but it is not recommended to use the `comfig/comfig.cfg` as an `autoexec` by copying and pasting text, as you will lose the many benefits from the extra script and data files in the config.
-
 ## addons folder
 
 These are folders with addon files.
